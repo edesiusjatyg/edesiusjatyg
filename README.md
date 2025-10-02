@@ -1,2 +1,10 @@
-##### Move fast with direction. Act with conviction.  
-##### In a world that spins fast, stillness is regression.  
+Hi there. 
+
+- Accepting **Fullstack Development** Projects. (HTML, Tailwind CSS, JavaScript, TypeScript, Next.js, PostgreSQL, Neon, Supabase, Redis)
+- Currently **building an agency** focused on helping businesses have their own **professional websites**.
+- Actively learning about **security**, especially securing **blockchains and smart contracts**.
+***
+**Move fast with direction, act with conviction.**\
+**In a world that spins fast, stillness is regression.**\
+\
+*learn - fix - ship - repeat.*
