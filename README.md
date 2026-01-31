@@ -7,18 +7,20 @@ _In a world that spins fast, stillness is regression._
 ### Stack
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-363636?logo=ethereum&logoColor=white)
+<br>
+![C++](https://img.shields.io/badge/C%2B%2B-363636?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-363636?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-363636?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-363636?logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-363636?logo=typescript&logoColor=white)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-363636?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-363636?logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-363636?logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-363636?logo=springboot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-363636?logo=tailwindcss&logoColor=white)
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ```
                                                                                         =*:.        
