@@ -1,8 +1,6 @@
-Loves building deep, mission-critical systems at the intersection of tangible engineering, blockchain, and AI.
+Loves building deep, mission-critical systems at the intersection of tangible engineering and AI.
 
-The way we build is changing fast. Therefore, I am moved by the principle:
-<br>
-_In a world that spins fast, stillness is regression._
+Happens to be a marketer too. Performance & Direct-response marketing specifically.
 
 ### Stack
 
